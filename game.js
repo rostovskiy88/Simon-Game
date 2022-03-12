@@ -126,3 +126,5 @@ function animatePress(currentColor) {
         $("#" + currentColor).removeClass("pressed");
     }, 100);
 }
+
+// for test commit
